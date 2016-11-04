@@ -1,0 +1,8 @@
+// Period is in milliseconds.
+
+export const Config  = {
+    AMQP: "amqp://<host>>:<port>",
+    Service: "Alert-Monkey",
+    TopicName: "<TopicName>",
+    Period: 1500
+}

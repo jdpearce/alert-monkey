@@ -1,0 +1,39 @@
+{
+  "title": [
+    "You should probably see this.", 
+    "The monkey rides again.", 
+    "IMPORTANT",
+    "Something is on FIRE!"],
+  "service": [
+    "Alert-Monkey-0",
+    "Alert-Monkey-1",
+    "Alert-Monkey-2"
+    ],
+  "serviceInError": [
+    "Alert-Monkey-0",
+    "Alert-Monkey-1",
+    "Alert-Monkey-2"
+    ],
+  "businessImpact": [
+    "Minimal",
+    "Small loss of life",
+    "Large loss of life",
+    "Engage BCP",
+    "None",
+    "Leave the swimming area now, mister."
+  ],
+  "technicalImpact": [
+    "Could result in damage to the implants. Replacement may be necessary.",
+    "Servers are down, this may be a bad thing.",
+    "None",
+    "Code will need to be re-designed so this doesn't happen again",
+    "Minimal"],
+  "severity": ["BAD", "WORSE", "AWFUL", "OK", "INFO", "BROWN"],
+  "host": ["BANANA", "ICICLE", "LONPARROT", "FISHBREAD", "SICKLEPEACH"],
+  "additionalInformation": [
+    "Additional information was not supplied for this alert.",
+    "The monkey is really unhappy now and just wants his banana back.",
+    "If you give the monkey his banana, this will all go away",
+    "Step away from the code, we have you surrounded."
+    ]
+}
